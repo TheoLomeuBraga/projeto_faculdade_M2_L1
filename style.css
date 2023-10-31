@@ -1,0 +1,32 @@
+iframe {
+    width: 90%; 
+    height: 2000px;
+    
+    border: 2px solid #333; /* Cor, espessura e estilo da borda */
+    padding: 10px;
+}
+
+.base_page{
+    display: flex;
+    flex-direction: column; /* Alinha os itens na vertical */
+    align-items: center; /* Centraliza verticalmente */
+    height: 100vh; /* Define a altura da coluna verticalmente centralizada */
+    justify-content: center; /* Centraliza horizontalmente (opcional) */
+
+    background-color :rgb(29, 29, 29);
+    color :aliceblue;
+}
+
+body{
+    background-color :rgb(29, 29, 29);
+    color :aliceblue;
+}
+
+.recipe{
+    color :aliceblue;
+    
+}
+
+h1{
+    
+}
